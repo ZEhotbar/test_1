@@ -1,0 +1,9 @@
+.block {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+.active {
+    background-color: gold;
+}
